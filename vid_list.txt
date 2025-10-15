@@ -1,0 +1,4 @@
+file 'adiBrk.mp4'
+file 'adiBrk1.mp4'
+# file 'clip3.mp4'
+# Add more lines for each 6-sec clip
